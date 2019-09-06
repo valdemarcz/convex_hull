@@ -1,4 +1,4 @@
 # convex_hull
 monotone chain
 
-![Screenshot](image.png)
+![Screenshot](image.PNG)
